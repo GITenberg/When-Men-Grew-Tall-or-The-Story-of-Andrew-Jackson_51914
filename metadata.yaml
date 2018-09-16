@@ -1,0 +1,27 @@
+_repo: When-Men-Grew-Tall-or-The-Story-of-Andrew-Jackson_51914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51914'
+  lccn: '07036233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Jackson, Andrew, 1767-1845'
+- GITenberg
+title: When Men Grew Tall, or The Story of Andrew Jackson
+url: http://www.gutenberg.org/ebooks/51914
